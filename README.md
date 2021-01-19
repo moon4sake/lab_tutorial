@@ -1,2 +1,2 @@
 # lab_tutorial
-coding tutorial basics
+coding tutorial basics: tensorflow, pytorch, sklearn
